@@ -1,0 +1,10 @@
+C:\Users\sfris\OneDrive\Documents\Library\Library\bin\Debug\Library.exe.config
+C:\Users\sfris\OneDrive\Documents\Library\Library\bin\Debug\Library.exe
+C:\Users\sfris\OneDrive\Documents\Library\Library\bin\Debug\Library.pdb
+C:\Users\sfris\OneDrive\Documents\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\sfris\OneDrive\Documents\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\sfris\OneDrive\Documents\Library\Library\obj\Debug\Library.exe
+C:\Users\sfris\OneDrive\Documents\Library\Library\obj\Debug\Library.pdb
+C:\Users\sfris\OneDrive\Documents\Library\Library\bin\Debug\Dapper.dll
+C:\Users\sfris\OneDrive\Documents\Library\Library\bin\Debug\Dapper.xml
+C:\Users\sfris\OneDrive\Documents\Library\Library\obj\Debug\Library.csproj.CopyComplete
